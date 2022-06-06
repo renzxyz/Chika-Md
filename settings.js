@@ -28,7 +28,7 @@ global.ownernomer = '62895360953898' //ubah jadi nomor mu, note tanda ' gausah d
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Renz' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Renz-Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'RenzXz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Renz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,7 +41,7 @@ global.email = 'dikaxiaomi462@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Renz-Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© RenzXz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Renz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 999,
 }
 
 //—————「 Set Image 」—————//
@@ -89,7 +89,7 @@ owner: '_Fitur Khusus Owner Bot_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
+wait: '_Loading Om..._',
 error: '_Fitur Sedang Error!_',
 endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
 }
